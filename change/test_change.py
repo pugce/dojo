@@ -33,3 +33,6 @@ class TestChange(unittest.TestCase):
 
         }
         self.assertEqual(change, expected)
+
+if __name__ == '__main__':
+    unittest.main()
