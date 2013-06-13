@@ -14,10 +14,8 @@ reuniões são periódicas e centradas num desafio de programação. "
 Onde?
 -----
 
-Local ::
+Local: FA7_
 
-http://goo.gl/maps/j5mog
+.. _FA7: http://goo.gl/maps/j5mog
 
-Dia e horário ::
-
-A ser definido
+Dia e horário: A ser definido
